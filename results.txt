@@ -1,0 +1,11 @@
+1. Balance Inquiry 2.Withdraw Cash
+Enter activity number, 1 or 2: 1
+Your balance is 50000.
+PS C:\Whitehat\DataScience\P100> & C:/Users/abhin/AppData/Local/Programs/Python/Python39/python.exe c:/Whitehat/DataScience/P100/atm.py
+Insert your card number: 5555555555555555
+Insert your pin number: 1024
+Choose your activity
+1. Balance Inquiry 2.Withdraw Cash
+Enter activity number, 1 or 2: 2
+Enter the amount to withdraw: 20000
+You have withdrawn amount 20000. Your remaining balance is 30000.
